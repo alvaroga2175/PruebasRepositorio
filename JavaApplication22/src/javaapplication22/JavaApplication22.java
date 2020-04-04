@@ -25,6 +25,7 @@ public class JavaApplication22 {
         System.out.println("Hola88");
         System.out.println("Hola99");
         System.out.println("Hola100");
+        System.out.println("Amos ñiño que esto ya va");
     }
     
 }
