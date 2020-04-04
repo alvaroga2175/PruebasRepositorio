@@ -11,6 +11,7 @@ package javaapplicationDani;
  */
 public class ClaseDani {
     String nombre;
+    String apellidos;
     
     
     
