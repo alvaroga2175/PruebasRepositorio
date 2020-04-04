@@ -19,7 +19,9 @@ public class Prueba1 {
         
         System.out.println("segundo hola mundo");
         
-        System.out.println("segundo hola mundo");
+        System.out.println("tercer hola mundo");
+        
+        System.out.println("cuarto hola mundo");
         
     }
     
